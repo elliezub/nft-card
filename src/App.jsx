@@ -1,7 +1,7 @@
 function App() {
   return (
     <main className="bg-slate-950 flex justify-center items-center min-h-screen">
-      <div className="bg-indigo-950 text-violet-50 p-5 shadow-lg rounded-2xl max-w-sm">
+      <div className="bg-indigo-950 text-violet-50 p-5 shadow-lg rounded-2xl max-w-xs">
         <div className="relative">
           <img
             src="https://i.ibb.co/hX3Gm4B/nftcatimg.png"
@@ -40,7 +40,7 @@ function App() {
 
         <hr />
 
-        <div className="flex items-center mt-4">
+        <div className="flex items-center mt-4 mb-2">
           <img
             src="https://i.ibb.co/QmPYs7c/Untitled-design-7.png"
             alt=""
