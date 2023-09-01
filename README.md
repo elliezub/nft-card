@@ -4,8 +4,8 @@
 
 - [Screenshot](#screenshot)
 - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
+- [Built with](#built-with)
+- [Run Locally](#run-locally)
 - [Author](#author)
 
 ### Screenshot
@@ -16,7 +16,7 @@
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://cat-nft.netlify.app/)
 
 ### Built with
 
@@ -25,7 +25,7 @@
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
 
-## Run Locally
+### Run Locally
 
 Clone the project
 
