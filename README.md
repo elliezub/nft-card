@@ -10,9 +10,7 @@
 
 ### Screenshot
 
-![](https://i.ibb.co/CPywVXd/Screen-Shot-2023-09-01-at-10-22-10-AM.png)
-
-![](https://i.ibb.co/RBFsT7K/Screen-Shot-2023-09-01-at-10-22-25-AM.png)
+![](https://i.ibb.co/CPywVXd/Screen-Shot-2023-09-01-at-10-22-10-AM.png)![](https://i.ibb.co/RBFsT7K/Screen-Shot-2023-09-01-at-10-22-25-AM.png)
 
 ### Links
 
